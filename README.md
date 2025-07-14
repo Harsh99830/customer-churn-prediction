@@ -40,7 +40,7 @@
       <tr><td>⚖️ Imbalance Handling</td><td>SMOTE</td></tr>
       <tr><td>🔍 Dimensionality Reduction</td><td>PCA</td></tr>
       <tr><td>📉 Evaluation</td><td>Confusion Matrix, ROC AUC, Classification Report</td></tr>
-      <tr><td>🔎 Anomaly Detection</td></tr>
+      <tr><td>🔎 Anomaly Detection</td><td>Isolation Forest (optional)</td></tr>
     </tbody>
   </table>
 
