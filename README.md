@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Customer Churn Prediction</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 2rem; max-width: 800px; margin: auto;">
 
